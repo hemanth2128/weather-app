@@ -13,8 +13,8 @@ Grateful to be learning from the best at @Webzenith Solutions, a global leader i
 
 A special thanks to my mentors @Mohammed Anas and @ Gaurau Siddarth S for their continuous support, feedback, and motivation.
 
-Live Link:
-GitHub Repo Link:
+Live Link: https://weather-app-rho-ochre-j6u5ndpuwk.vercel.app/
+GitHub Repo Link: https://github.com/hemanth2128/weather-app
 
 #WebDevelopment #ReactJS #JavaScript #FrontendDevelopment #AppDevelopment
 #SoftwareDevelopment #UIUXDesign #FullStackDevelopment #100DaysChallenge
