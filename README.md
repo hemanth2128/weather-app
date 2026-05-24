@@ -11,9 +11,10 @@ This project helped me improve my React project structure, reusable component cr
 
 Grateful to be learning from the best at @Webzenith Solutions, a global leader in tech transformation.
 
-A special thanks to my mentors @Mohammed Anas and @ Gaurau Siddarth S for their continuous support, feedback, and motivation.
+A special thanks to my mentors @Mohammed Anas and @Gaurau Siddarth S for their continuous support, feedback, and motivation.
 
 Live Link: https://weather-app-rho-ochre-j6u5ndpuwk.vercel.app/
+
 GitHub Repo Link: https://github.com/hemanth2128/weather-app
 
 #WebDevelopment #ReactJS #JavaScript #FrontendDevelopment #AppDevelopment
